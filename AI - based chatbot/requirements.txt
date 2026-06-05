@@ -1,0 +1,2 @@
+# No external libraries needed — pure Python standard library
+# Python >= 3.6 required
